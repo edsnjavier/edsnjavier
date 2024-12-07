@@ -1,6 +1,6 @@
 # Hi, I'm Edison J. Javier III 👋  
-🎓 **BS Computer Science Student at University of Santo Tomas (Graduating 2025)**
-🌟 **Passionate about AI, Data Science, and Web Development**
+- 🎓 **BS Computer Science Student at University of Santo Tomas (Graduating 2025)**
+- 🌟 **Passionate about AI, Data Science, and Web Development**
 
 ## 💻 What I Do:
 • **Programming:** Java, Python, HTML/CSS/JavaScript, MySQL, Android Programming
@@ -12,4 +12,4 @@
 
 ## 📫 Reach me at:  
 •  **Email:** [edsnjavieriii@gmail.com](mailto:edsnjavieriii@gmail.com)  
-•  **LinkedIn:** [www.linkedin.com/in/edisonjavieriii(#)
+•  **LinkedIn:** [www.linkedin.com/in/edisonjavieriii]
