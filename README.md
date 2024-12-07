@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Edison J. Javier III 👋  
+🎓 **BS Computer Science Student at University of Santo Tomas (Graduating 2025)**
+🌟 **Passionate about AI, Data Science, and Web Development**
 
-<!--
-**edsnjavier/edsnjavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 What I Do:
+• **Programming:** Java, Python, HTML/CSS/JavaScript, MySQL, Android Programming
+• **Deep Learning & AI:** CNNs, Computer Vision, Transfer Learning, Data Augmentation
+• **Data Science & Machine Learning:** Python, Pandas, Matplotlib, Tableau, Scikit-learn, TensorFlow, Keras, PyTorch
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning  
+• Advancing my knowledge in Neural Networks, Data Visualization, and cutting-edge ML techniques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me at:  
+•  **Email:** [edsnjavieriii@gmail.com](mailto:edsnjavieriii@gmail.com)  
+•  **LinkedIn:** [www.linkedin.com/in/edisonjavieriii(#)
