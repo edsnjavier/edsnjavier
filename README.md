@@ -8,7 +8,7 @@
 - **Data Science & Machine Learning:** Python, Pandas, Matplotlib, Tableau, Power BI, Scikit-learn, TensorFlow, Keras, PyTorch
 
 ## 🌱 Currently Learning  
-- Advancing my knowledge in Neural Networks, Data Visualization, and cutting-edge ML techniques
+- Advancing my knowledge in Data Analysis and Data Visualization (Data Science), and cutting-edge ML techniques
 
 ## 📫 Reach me at:  
 - **Email:** [edsnjavieriii@gmail.com](mailto:edsnjavieriii@gmail.com)  
