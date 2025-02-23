@@ -5,7 +5,7 @@
 ## 💻 What I Do:
 - **Programming:** Java, Python, HTML/CSS/JavaScript, MySQL, Android Programming
 - **Deep Learning & AI:** CNNs, Computer Vision, Transfer Learning, Data Augmentation
-- **Data Science & Machine Learning:** Python, Pandas, Matplotlib, Tableau, Scikit-learn, TensorFlow, Keras, PyTorch
+- **Data Science & Machine Learning:** Python, Pandas, Matplotlib, Tableau, Power BI, Scikit-learn, TensorFlow, Keras, PyTorch
 
 ## 🌱 Currently Learning  
 - Advancing my knowledge in Neural Networks, Data Visualization, and cutting-edge ML techniques
